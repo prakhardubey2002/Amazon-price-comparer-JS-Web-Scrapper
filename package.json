@@ -1,0 +1,24 @@
+{
+  "name": "amazon-price-comparer-js-web-scrapper",
+  "version": "1.0.0",
+  "description": "automated web scrapping of amzon on basis of product price using nightmarejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakhardubey2002/Amazon-price-comparer-JS-Web-Scrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakhardubey2002/Amazon-price-comparer-JS-Web-Scrapper/issues"
+  },
+  "homepage": "https://github.com/prakhardubey2002/Amazon-price-comparer-JS-Web-Scrapper#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.2",
+    "dotenv": "^16.0.1",
+    "nightmare": "^3.0.2"
+  }
+}
